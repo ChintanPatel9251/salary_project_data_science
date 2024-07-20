@@ -64,3 +64,8 @@ The Random Forest model far outperformed the other approaches on the test and va
 *	**Random Forest** : MAE = 11.22
 *	**Linear Regression**: MAE = 18.86
 *	**Ridge Regression**: MAE = 19.67
+
+## Contact
+I'm always excited to connect with fellow data and machine learning enthusiasts, potential employers, and anyone interested in Data Science, Machine Learning and Artificial Intelligence. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/chintan-patel2251/).
+
+Thank you for visiting my repository. I look forward to your feedback and the opportunity to contribute to impactful projects!
