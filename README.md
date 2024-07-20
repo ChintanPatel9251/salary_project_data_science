@@ -46,7 +46,7 @@ I looked at the distributions of the data and the value counts for the various c
 
 ![alt text](https://github.com/ChintanPatel9251/salary_project_data_science/blob/master/salary_by_job_title.PNG "Salary by Position")
 ![alt text](https://github.com/ChintanPatel9251/salary_project_data_science/blob/master/positions_by_state.png "Job Opportunities by State")
-![alt text](https://github.com/ChintanPatel9251/salary_project_data_science/blob/master/correlation_visual.png "Correlations")
+![alt text](correlation_visual.png "Correlations")
 
 ## Model Building 
 
